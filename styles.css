@@ -1,0 +1,33 @@
+body {
+    color: white;
+    background: rgb(250, 166, 166);
+    
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+    width: 100%;
+
+}
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;align-items:center ;
+}
+.mediun{
+display: flex;
+justify-content: center;
+
+background-color: pink;
+}
+
+h2{
+    margin: 10px;
+    
+}
+iframe {
+    margin: 20px;
+    width: 200px;
+    border-radius: 15px;
+    
+}
